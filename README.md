@@ -32,8 +32,8 @@ M1 Mac で動く VLA（SmolVLA × Meta-World）に日本語で指示し、「言
 ### セットアップ
 
 ```bash
-git clone <このリポジトリの URL>
-cd <フォルダ名>
+git clone https://github.com/Narity/pai-vla-kotoba.git
+cd pai-vla-kotoba
 uv sync
 ```
 
