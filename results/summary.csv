@@ -1,0 +1,35 @@
+exp,group,scene,label,instruction,hide_markers,n,success,knob_open,knob_close,rate,p_vs_template
+1,faucet,faucet-open-v3,faucet-open-v3,Rotate the faucet counter-clockwise,0,20,17,19,0,0.85,
+1,faucet,faucet-open-v3,faucet-close-v3,Rotate the faucet clockwise,0,20,0,0,3,0.0,2.57e-08
+1,faucet,faucet-close-v3,faucet-open-v3,Rotate the faucet counter-clockwise,0,20,0,14,0,0.0,0.0471
+1,faucet,faucet-close-v3,faucet-close-v3,Rotate the faucet clockwise,0,20,5,0,11,0.25,
+1,drawer,drawer-open-v3,drawer-open-v3,Open a drawer,0,20,15,,,0.75,
+1,drawer,drawer-open-v3,drawer-close-v3,Push and close a drawer,0,20,7,,,0.35,0.0248
+1,drawer,drawer-close-v3,drawer-open-v3,Open a drawer,0,20,12,,,0.6,0.00328
+1,drawer,drawer-close-v3,drawer-close-v3,Push and close a drawer,0,20,20,,,1.0,
+1,window,window-open-v3,window-open-v3,Push and open a window,0,20,6,,,0.3,
+1,window,window-open-v3,window-close-v3,Push and close a window,0,20,3,,,0.15,0.451
+1,window,window-close-v3,window-open-v3,Push and open a window,0,20,0,,,0.0,7.71e-07
+1,window,window-close-v3,window-close-v3,Push and close a window,0,20,15,,,0.75,
+3,faucet,faucet-open-v3,faucet-open-v3,Rotate the faucet counter-clockwise,1,20,14,17,0,0.7,
+3,faucet,faucet-open-v3,faucet-close-v3,Rotate the faucet clockwise,1,20,0,0,4,0.0,3.34e-06
+3,faucet,faucet-close-v3,faucet-open-v3,Rotate the faucet counter-clockwise,1,20,0,18,0,0.0,1.0
+3,faucet,faucet-close-v3,faucet-close-v3,Rotate the faucet clockwise,1,20,1,0,2,0.05,
+2,faucet-open-v3,faucet-open-v3,定型文,Rotate the faucet counter-clockwise,0,20,17,19,0,0.85,
+2,faucet-open-v3,faucet-open-v3,言い換え,Turn on the tap,0,20,7,7,12,0.35,0.00306
+2,faucet-open-v3,faucet-open-v3,日本語のまま,蛇口を開けて,0,20,5,8,7,0.25,0.000328
+2,faucet-open-v3,faucet-open-v3,無関係な文,Dunk the basketball into the basket,0,20,0,0,0,0.0,2.57e-08
+2,faucet-open-v3,faucet-open-v3,空文字,,0,20,6,8,10,0.3,0.00106
+2,faucet-open-v3,faucet-open-v3,ルーター経由,Rotate the faucet counter-clockwise,0,20,17,19,0,0.85,
+2,drawer-close-v3,drawer-close-v3,定型文,Push and close a drawer,0,20,20,,,1.0,
+2,drawer-close-v3,drawer-close-v3,言い換え,Shut the drawer,0,20,20,,,1.0,1.0
+2,drawer-close-v3,drawer-close-v3,日本語のまま,引き出しを閉めて,0,20,0,,,0.0,1.45e-11
+2,drawer-close-v3,drawer-close-v3,無関係な文,Dunk the basketball into the basket,0,20,18,,,0.9,0.487
+2,drawer-close-v3,drawer-close-v3,空文字,,0,20,20,,,1.0,1.0
+2,drawer-close-v3,drawer-close-v3,ルーター経由,Push and close a drawer,0,20,20,,,1.0,
+2,window-close-v3,window-close-v3,定型文,Push and close a window,0,20,15,,,0.75,
+2,window-close-v3,window-close-v3,言い換え,Shut the window,0,20,11,,,0.55,0.32
+2,window-close-v3,window-close-v3,日本語のまま,窓を閉めて,0,20,18,,,0.9,0.407
+2,window-close-v3,window-close-v3,無関係な文,Dunk the basketball into the basket,0,20,0,,,0.0,7.71e-07
+2,window-close-v3,window-close-v3,空文字,,0,20,3,,,0.15,0.000328
+2,window-close-v3,window-close-v3,ルーター経由,Push and close a window,0,20,15,,,0.75,
